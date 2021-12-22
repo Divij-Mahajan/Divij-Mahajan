@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divij-Mahajan
-- 👀 I’m interested in Programming, Physics & General Psychology
-- 🌱 I’m currently learning Python, JS 
+- 👀 I’m interested in Programming, Physics, Quantum Computing 
+- 🌱 I’m currently learning Python, JavaScript
 - 📫 How to reach me email on d.mahajan2004@gmail.com
 
 <!---
